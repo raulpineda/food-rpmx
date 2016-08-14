@@ -1,0 +1,16 @@
+{
+  "name": "rpmx-kitchen",
+  "description": "configuration",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
